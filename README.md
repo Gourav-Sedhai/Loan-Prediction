@@ -1,6 +1,6 @@
 # Loan-Prediction
 Prediction if loan will be paid or not.
-----------------------------------------
+--------------------------------------
 About:
 -----
 In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations, etc. The recipient incurs a debt, and is usually liable to pay interest on that debt until it is repaid, and also to repay the principal amount borrowed.
